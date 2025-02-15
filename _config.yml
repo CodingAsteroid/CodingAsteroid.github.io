@@ -1,0 +1,8 @@
+title: CodingAsteroid
+description: "My personal site powered by Jekyll"
+theme: null # Null because we're using a custom design
+exclude:
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
