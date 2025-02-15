@@ -1,3 +1,0 @@
-<footer class="mt-auto text-white-50">
-    <p>Page created by CodingAsteroid with the <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a> framework.</p>
-</footer>
